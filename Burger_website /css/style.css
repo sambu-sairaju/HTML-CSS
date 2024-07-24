@@ -1,0 +1,77 @@
+/* body */
+body{
+    margin: 0px;
+}
+
+/* font */
+.alfa-slab-one-regular {
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* section1 */
+#sec1{
+    background-image: url("../images/Rectangle.png");   
+    height: 832px;
+    width: 1470px;
+}
+#logo{
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+}
+#title{
+    display: inline-block;
+    color: rgba(59, 4, 4, 0.72);
+    font-size: 30px;
+    align-items: center;
+}
+#phonenumber{
+    float: right;
+    padding-top: 51px;
+    padding-right: 80px;
+    font-size: 18px;
+    color: rgba(59, 4, 4, 0.72);
+}
+
+#scottor{
+    float: right;
+    padding-top: 45px;
+    padding-right: 15px;
+}
+nav{
+    padding-left: 777px;
+}
+nav ul li{
+    float: left;
+    list-style-type: none;
+    padding-left: 10px;
+    padding-right: 70px;
+    font-size: 25px;
+    color: rgba(59, 4, 4, 0.72);
+}
+#quote-line{
+    margin-left: 80px;
+    margin-top: 200px;
+    border-radius: 5px;
+    border-style: dashed;
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 25px;
+    color: rgba(59, 4, 4, 0.72);
+}
+    
+#heading{
+    font-size: 151px;
+    padding-left: 80px;
+    margin-top: 0px;
+    color: rgba(59, 4, 4, 0.72);
+}
+#poster{
+    display: inline-block;
+}
